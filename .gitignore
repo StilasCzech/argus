@@ -46,3 +46,4 @@ logs/
 # AI
 .claude/
 plans/
+update-hosts*
